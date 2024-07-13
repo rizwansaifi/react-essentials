@@ -1,0 +1,1 @@
+In this project we simply learnt to implement components , conditional rendering , dynamic jsx and basics of react 
